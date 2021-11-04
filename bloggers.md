@@ -1,1 +1,2 @@
 - [Jimmy Hertzell](https://www.thecodedmessage.com/), often writes about Rust by comparing it to C++. Useful for me as someone who never learned C++.
+- Andrew Lilley Brinker writes very useful guides under the umbrella of [_Possible Rust_](https://possiblerust.com)
