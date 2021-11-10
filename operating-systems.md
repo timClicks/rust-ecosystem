@@ -2,6 +2,7 @@
 
 Note: Excerpts are from sections that I think are especially useful or interesting.
 
+- [Writing an OS in Rust](https://os.phil-opp.com/), Philipp Oppermann
 - [Writing a Linux-compatible kernel in Rust](https://seiya.me/writing-linux-clone-in-rust), [Seiya Nuta][]
 
   > **Is Rust good for the kernel-land?**
@@ -15,10 +16,24 @@ Note: Excerpts are from sections that I think are especially useful or interesti
   > However, we still have some issues with using Rust in the kernel-land:
   >
   > ...
+- Rust has active page on the [osdev wiki](https://wiki.osdev.org/Rust)
 
 [Seiya Nuta]: https://seiya.me/
 
-## Projects
+## Major Projects
+
+### tock
+
+[`tockos.org`](https://www.tockos.org/)
+
+> An embedded operating system designed for running multiple concurrent, mutually distrustful applications on low-memory and low-power microcontrollers.
+
+### redox
+
+[`redox-os.org`](https://www.redox-os.org/)
+
+> Redox is a Unix-like Operating System written in Rust, aiming to bring the innovations of Rust to a modern microkernel and full set of applications.
+
 
 ### kerla
 
@@ -31,3 +46,12 @@ It's possible to SSH into a VM running Kerla right now:
 ```console
 $ ssh root@kerla-demo.seiya.me
 ```
+
+## Personal Projects
+
+### liberty
+
+[`github.com/LibertyOS-Development/kernel`](https://github.com/LibertyOS-Development/kernel)
+
+> LibertyOS is something that will be unlike any existing operating system. LibertyOS is written primarily in Rust-an increasingly popular language for low-level programming (among other things). LOS is written entirely from scratch, down to its libraries, its programs, tests, and so on. LOS is also entirely free-to-use, and is open-sourced, so you are welcome to help make LOS even better!
+
