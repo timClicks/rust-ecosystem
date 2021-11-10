@@ -1,6 +1,6 @@
 ## People worth reading
 
-- ⭐ [Andre Bogus](https://llogiq.github.io/)
+- ⭐ [Andre Bogus](https://llogiq.github.io/), aka llogiq, writes a lot about how to make use of Rust
 - [Andrew Gallant](https://blog.burntsushi.net/), aka BurntSushi, tends to write extensive, technical posts infrequently.
 - Andrew Lilley Brinker writes very useful guides under the umbrella of [_Possible Rust_](https://possiblerust.com)
 - 🌟 [Nora Tindall](https://nora.codes) is co-author of _Programming Rust_
