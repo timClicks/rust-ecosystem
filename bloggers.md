@@ -5,6 +5,7 @@
 - [Andrew Gallant](https://blog.burntsushi.net/), aka BurntSushi, tends to write extensive, technical posts infrequently.
 - Andrew Lilley Brinker writes very useful guides under the umbrella of [_Possible Rust_](https://possiblerust.com)
 - 🌟 [Nora Tindall](https://nora.codes) is co-author of _Programming Rust_
+- 🌟 [Herman J. Radtke III](https://hermanradtke.com/) runs Rust Los Angeles
 - [Jimmy Hertzell](https://www.thecodedmessage.com/), often writes about Rust by comparing it to C++. Useful for me as someone who never learned C++.
 - [Raph Levien](https://raphlinus.github.io/rust/2019/08/21/rust-bloat.html) is an expert in fonts. He created the Inkscape vector graphics editor, then went on to work on font rendering at Google. 
 - 🌟 [Rain](https://sunshowers.io/), works at FB, but don't hold it against them. They're excellent.  
